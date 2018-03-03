@@ -1,0 +1,61 @@
+h1 {
+	margin: auto;
+	font-size: 5em;
+} 
+
+body {
+	text-align: center;
+	background-color: #696969;
+}
+
+.resizeImage {
+	width: 50%;
+}
+
+p {
+	font-size: 0.9em;
+	font-family: "Times New Roman";
+}
+
+.overlay {
+	background-color: #d3d3d3;
+	display: inline-block;
+	width: 80%;
+}
+
+.halfSize {
+	padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+}
+
+.opac {
+	opacity: 0.8;
+}
+
+.centerText {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.tightFit {
+	display: inline-block;
+}
+
+.noopac {
+	opacity: 1;
+}
+
+.facts {
+	text-align: left;
+	font-size: 1em;
+	display: inline-block;
+	padding-top: 0px;
+    margin-bottom: : 0px;
+    margin-top: : 0px;
+}
+
+.fifperc {
+width: 50%;
+}
